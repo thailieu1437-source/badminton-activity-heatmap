@@ -1,0 +1,22 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Dataset and training files
+dataset/
+frames/
+runs/
+*.zip
+
+# Large raw videos
+video/*.mp4
+video/*.avi
+video/*.mov
+
+# Ignore large output videos
+output/*.mp4
+
+# System files
+.DS_Store
+Thumbs.db
