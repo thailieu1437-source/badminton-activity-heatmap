@@ -208,25 +208,12 @@ Video demo có chú thích được lưu tại:
 
 ```text
 
-output/annotated\_video.mp4
+output/demo_video.mp4
 
 ```
 
 
 
-Nếu video demo quá lớn để upload trực tiếp lên GitHub, video sẽ được cung cấp bằng Google Drive.
-
-
-
-Google Drive demo link: cập nhật sau.
-
-
-
-\## 10. Ghi chú
-
-
-
-Model YOLO được sử dụng để phát hiện vận động viên trong video. Nếu model đã train có dung lượng lớn, file model có thể được lưu trong Google Drive và dẫn link trong README.
 
 
 
